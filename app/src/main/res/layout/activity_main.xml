@@ -41,12 +41,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
+        android:background="#FF8F00"
         android:text="Detection Image"
         android:textAllCaps="false"
-        android:background="#00695C"
         android:textColor="#FFF"
-        android:textSize="20sp"
-        />
+        android:textSize="20sp" />
 
 
 </RelativeLayout>
